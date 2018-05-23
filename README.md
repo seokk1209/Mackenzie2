@@ -1,24 +1,13 @@
-# README
+#전체적인 과정
+전체적으로 지금까지 배워왔던 모든 개념을 동원하여 blog 를 만드는 것을 목표로 하였다.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#새로 안 내용
+-이미지 업로드
+-코멘트 카운트
+-기존 restful 라우팅에 조금 더 적응
+-devise 를 활용한 user 기능
 
-Things you may want to cover:
+#오류 내용
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 사실 오류가 너무 많았다... 뭐가 많았다기 보다는 너무 많아서 다 쓰기도 어려울듯 한데... 가장 큰 부분은 따라하는 과정에서 오타를 많이 냈다는 점... 그래서 시간을 많이 잡아먹었다. 
+- devise 개념이 편했다.. 너무 많은 내용을 따라가다 보니 제대로 이해하지 못한것이 많은것 같아 재학습이 필요할듯하다.
